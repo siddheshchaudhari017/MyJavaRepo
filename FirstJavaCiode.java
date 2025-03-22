@@ -12,7 +12,6 @@ class Demo
             try {
                 
             } catch (Exception e) {
-                // TODO: handle exception
             }
         } catch (Exception e) {
             // TODO: handle exception
